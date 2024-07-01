@@ -1,11 +1,10 @@
-import { Profile } from './Profile.jsx' 
+import { Profile } from './Profile/Profile.jsx' 
 
 export const App = () => {
   return (
     <>
       <div
         style={{
-          height: '100vh',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
@@ -14,7 +13,6 @@ export const App = () => {
         }}
       >      
         React homework template
-
       </div>
       <Profile />
     </>
