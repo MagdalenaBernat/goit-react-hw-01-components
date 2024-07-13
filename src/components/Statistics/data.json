@@ -1,0 +1,21 @@
+{
+  "title": "Upload stats",
+  "data": [
+    {
+      "label": ".docx",
+      "percentage": 4
+    },
+    {
+      "label": ".mp3",
+      "percentage": 14
+    },
+    {
+      "label": ".pdf",
+      "percentage": 41
+    },
+    {
+      "label": ".mp4",
+      "percentage": 12
+    }
+  ]
+}
