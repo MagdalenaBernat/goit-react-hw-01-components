@@ -14,7 +14,7 @@ export const App = () => {
       >      
         React homework template
       </div>
-      <Profile />
+      <Profile username="username" tag="tag" location="location" avatar="avatar" stats="stats" />
     </>
   );
 };
