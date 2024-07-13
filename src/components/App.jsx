@@ -1,5 +1,6 @@
 import { Profile } from './Profile/Profile.jsx' 
 import { Statistics } from './Statistics/Statistics.jsx'
+import { FriendList } from './FriendList/FriendList.jsx'
 
 export const App = () => {
   return (
@@ -17,6 +18,7 @@ export const App = () => {
       </div>
       <Profile username="username" tag="tag" location="location" avatar="avatar" stats="stats" />
       <Statistics title="" stats="stats" />
+      <FriendList friends="friends"/>
     </>
   );
 };
