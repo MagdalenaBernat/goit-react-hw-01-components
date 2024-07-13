@@ -1,6 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import './friends.json';
+import React from 'react'
+import PropTypes from 'prop-types'
+import './friends.json'
 import css from './FriendList.module.css'
 
 const friendsData = {
